@@ -111,7 +111,7 @@ To change the endpoints you can modifiy the AppSettings.cs file in the SmartHote
 There is a detailed step-by-step demo script in the [demoscripts](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps/tree/master/DemoScripts) folder of this repo that you can use in your own presentations.
 
 ## Licenses
-
+ 
 This project uses some third-party assets with a license that requires attribution:
 
 - [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins): by James Montemagno
